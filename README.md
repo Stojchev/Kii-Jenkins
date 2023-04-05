@@ -1,2 +1,0 @@
-# kii-jenkins
-Learning Jenkins
